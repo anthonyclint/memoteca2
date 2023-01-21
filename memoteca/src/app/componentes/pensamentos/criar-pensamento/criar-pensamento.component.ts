@@ -43,7 +43,6 @@ export class CriarPensamentoComponent implements OnInit {
   criarPensamento() {
 
     if(this.formulario.valid){
-      console.log('chegou aqui')
       this.service.criar(this.formulario.value)
         .subscribe(
           () => {
