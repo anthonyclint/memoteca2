@@ -8,7 +8,7 @@
     },
     {
       "id": 2,
-      "conteudo": "Na minha máquina funciona!",
+      "conteudo": "Na minha máquina funciona!!!!!!!!!!!!",
       "autoria": "Dev da madrugada",
       "modelo": "modelo2"
     },
@@ -17,12 +17,6 @@
       "conteudo": "Continue a codar... continue a codar...",
       "autoria": "Dory programadora",
       "modelo": "modelo3"
-    },
-    {
-      "conteudo": "Testando função de editar",
-      "autoria": "Angular ",
-      "modelo": "modelo2",
-      "id": 4
     }
   ]
 }
